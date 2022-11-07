@@ -1,3 +1,6 @@
+##Edit or Create Quality Plan sheets directly from the software changes
+##Contact me @ 9360985570 for full source program and to assemble the parts
+
 import openpyxl
 import os
 import pyautogui
