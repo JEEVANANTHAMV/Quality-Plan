@@ -1,6 +1,3 @@
-##Program to generate Inspection Final Preparation report
-##Contact me @ 9360985570 for full source program and to assemble the parts
-
 import openpyxl
 from openpyxl.styles import Alignment
 import pyautogui
